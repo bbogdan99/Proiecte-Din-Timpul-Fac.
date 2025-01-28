@@ -1,0 +1,15 @@
+C:\Users\leptop\source\repos\Calculator Calorii\Calculator Calorii\obj\Debug\netcoreapp3.1\Calculator Calorii.csprojAssemblyReference.cache
+C:\Users\leptop\source\repos\Calculator Calorii\Calculator Calorii\obj\Debug\netcoreapp3.1\Calculator_Calorii.Form1.resources
+C:\Users\leptop\source\repos\Calculator Calorii\Calculator Calorii\obj\Debug\netcoreapp3.1\Calculator Calorii.csproj.GenerateResource.cache
+C:\Users\leptop\source\repos\Calculator Calorii\Calculator Calorii\obj\Debug\netcoreapp3.1\Calculator Calorii.AssemblyInfoInputs.cache
+C:\Users\leptop\source\repos\Calculator Calorii\Calculator Calorii\obj\Debug\netcoreapp3.1\Calculator Calorii.AssemblyInfo.cs
+C:\Users\leptop\source\repos\Calculator Calorii\Calculator Calorii\obj\Debug\netcoreapp3.1\Calculator Calorii.csproj.CoreCompileInputs.cache
+C:\Users\leptop\source\repos\Calculator Calorii\Calculator Calorii\bin\Debug\netcoreapp3.1\Calculator Calorii.exe
+C:\Users\leptop\source\repos\Calculator Calorii\Calculator Calorii\bin\Debug\netcoreapp3.1\Calculator Calorii.deps.json
+C:\Users\leptop\source\repos\Calculator Calorii\Calculator Calorii\bin\Debug\netcoreapp3.1\Calculator Calorii.runtimeconfig.json
+C:\Users\leptop\source\repos\Calculator Calorii\Calculator Calorii\bin\Debug\netcoreapp3.1\Calculator Calorii.runtimeconfig.dev.json
+C:\Users\leptop\source\repos\Calculator Calorii\Calculator Calorii\bin\Debug\netcoreapp3.1\Calculator Calorii.dll
+C:\Users\leptop\source\repos\Calculator Calorii\Calculator Calorii\bin\Debug\netcoreapp3.1\Calculator Calorii.pdb
+C:\Users\leptop\source\repos\Calculator Calorii\Calculator Calorii\obj\Debug\netcoreapp3.1\Calculator Calorii.dll
+C:\Users\leptop\source\repos\Calculator Calorii\Calculator Calorii\obj\Debug\netcoreapp3.1\Calculator Calorii.pdb
+C:\Users\leptop\source\repos\Calculator Calorii\Calculator Calorii\obj\Debug\netcoreapp3.1\Calculator Calorii.genruntimeconfig.cache
