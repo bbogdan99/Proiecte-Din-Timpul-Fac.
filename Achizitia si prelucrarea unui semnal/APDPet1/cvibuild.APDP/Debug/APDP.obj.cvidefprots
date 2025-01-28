@@ -1,0 +1,68 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char **argv);"
+
+[OnSpectru2]
+Class="Function"
+Prototype="int OnSpectru2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[OnSpectru]
+Class="Function"
+Prototype="int OnSpectru(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[OnSwitchPanelCB]
+Class="Function"
+Prototype="int OnSwitchPanelCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[OnMainPanel]
+Class="Function"
+Prototype="int OnMainPanel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[OnPrev]
+Class="Function"
+Prototype="int OnPrev(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[OnStart]
+Class="Function"
+Prototype="int OnStart(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[OnStop]
+Class="Function"
+Prototype="int OnStop(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[OnNext]
+Class="Function"
+Prototype="int OnNext(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[OnDimensiuneFereastra]
+Class="Function"
+Prototype="int OnDimensiuneFereastra(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[OnAplica]
+Class="Function"
+Prototype="int OnAplica(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[OnFiltru]
+Class="Function"
+Prototype="int OnFiltru(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[OnLoadButtonCB]
+Class="Function"
+Prototype="int OnLoadButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[OnMean]
+Class="Function"
+Prototype="int OnMean(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[OnAlpha]
+Class="Function"
+Prototype="int OnAlpha(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[OnAnvelopa]
+Class="Function"
+Prototype="int OnAnvelopa(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[OnMediere]
+Class="Function"
+Prototype="int OnMediere(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
