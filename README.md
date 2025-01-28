@@ -1,5 +1,5 @@
-  EN:The repository contains a list of projects done during my time in uni, most of them were moved from the institutional account of the faculty after my graduation. More 
-  details in each folder (documentations, image captures, etc)
+  EN:The repository contains a list of projects done during my time as a student at the Faculty of Automatic Control and Computer Engineering, Iasi, 
+  most of them were moved from the institutional account of the faculty after my graduation. More details in each folder (documentations, image captures, etc)
 
  - Distributed system of comunication between stations (with Socket, using the Advanced Encryption Standard/Rijndael algorithm) - I was tasked with implementing the AES algorithm
  - Acquisition and processing of an audio signal, done with the help of a python function, then processed in time & frequency domain (C)
