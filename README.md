@@ -1,7 +1,7 @@
   EN:The repository contains a list of projects done during my time in uni, most of them were moved from the institutional account of the faculty after my graduation. More 
   details in each folder (documentations, image captures, etc)
 
-  -Distributed system of comunication between stations (with Socket, using the Advanced Encryption Standard/Rijndael algorithm) - I was tasked with implementing the AES algorithm
+ - Distributed system of comunication between stations (with Socket, using the Advanced Encryption Standard/Rijndael algorithm) - I was tasked with implementing the AES algorithm
  - Acquisition and processing of an audio signal, done with the help of a python function, then processed in time & frequency domain (C)
  - A simple application to calculate the calories needed for a specific goal (includes UML diagrams, help files etc)
  - Game done in Java, 2D (players, entitities, tiles, game loops, collision detection etc were implemented, lacks enemies and map details)
