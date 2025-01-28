@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE persoane SYSTEM "persoane.dtd">
+<persoane>
+    <persoana id="1">
+        <nume>Popescu</nume>
+        <prenume>Ion</prenume>
+        <varsta>23</varsta>
+	<CNP>1992848234</CNP>
+    </persoana>
+
+    <persoana id="2">
+        <nume>Andrei</nume>
+        <prenume>Vasile</prenume>
+        <varsta>26</varsta>
+        <CNP>1992848234</CNP>
+    </persoana>
+
+    <persoana id="3">
+        <nume>Rusu</nume>
+        <prenume>Turcu</prenume>
+        <varsta>29</varsta>
+        <CNP>1992848234</CNP>
+    </persoana>
+
+    <adresa id="4">
+        <strada>Nicolina</strada>
+        <numar>123456789</numar>
+        <localitate>Iasi</localitate>
+        <judet>Iasi</judet>
+        <tara>Romania</tara>
+    </adresa>
+</persoane>

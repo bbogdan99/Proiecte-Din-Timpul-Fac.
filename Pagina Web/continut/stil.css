@@ -1,0 +1,48 @@
+nav
+{
+    background-color:#99F0A0;
+    border-top:1px solid grey;
+    border-bottom: 5px solid #33FF43;
+    padding:10px 0px;
+    display:flex;
+    align-items: center;
+}
+nav>a
+{
+    text-decoration: none;
+    padding: 5px;
+    border: 1px solid #123456;
+    
+    background-color: purple;
+    color: white;
+    border-radius: 3px;
+    margin: 0px 5px;
+    flex:1;
+}
+nav>a:hover
+{
+    cursor: crosshair;
+    text-decoration:underline;
+    background-color: black;
+}
+
+table#lab4
+{
+    background-color:yellow;
+}
+table#lab4:hover
+{
+    background-color: purple;
+    cursor:text;
+}
+
+fieldset#lab4
+{
+    background-color:aliceblue;
+}
+fieldset#lab4:hover
+{
+    background-color: thistle;
+    cursor:grab;
+}
+

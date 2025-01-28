@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<!--ceva.html-->
+<html>
+
+<head>
+    <title>
+        Titlu
+    </title>
+</head>
+
+<body>
+    <link rel="stylesheet" href="stil.css">
+    <nav>
+        <a href="despre.html">Despre</a>
+        <a href="video.html">Video</a>
+        <a href="inregistreaza.html">Inregistrare</a>
+        <a href="index.html">Despre noi</a>
+        <a href="desen.html">Desen</a>
+        <a href="invat.html">Invat</a>
+    </nav>
+
+    <div>
+        <aside>
+            <a href="#1">Informatii generale</a>
+            <a href="#2">Informatii personale</a>
+        </aside>
+    </div>
+
+    <br>
+
+    <form>
+        <fieldset id = "lab4">
+            <legend id ="1"> Informatii generale</legend>
+
+            <label for="utilizator">Nume utilizator:</label>
+            <input type="text" id="utilizator" name="utilizator" required><br>
+
+            <label for="fname">Nume:</label>
+            <input type="text" id="fname" name="fname"><br>
+
+            <label for="lname">Prenume:</label>
+            <input type="text" id="lname" name="lname"><br>
+
+            <label for="pwd">Parola:</label>
+            <input type="password" id="pwd" name="pwd" required><br>
+
+            <label for="email"> Email:</label>
+            <input type="email" id="email" name="email"><br>
+
+            <label for="phone"> Phone:</label>
+            <input type="tel" id="phone" name="phone"><br>
+        </fieldset>
+
+        <fieldset id ="lab4">
+            <legend id ="2"> Informatii personale</legend>
+
+           <label for="data">Data nasterii:</label>
+           <input type="date" id="data" name = "data" > <br>
+        
+           <label for="mancaruri">Mancare preferata:</label>
+           <input list ="mancare"  name = "mancare" id = "mancaruri">
+           <datalist id = "mancare">
+               <option>Pizza</option>
+               <option>Sarmale</option>
+               <option>Pui</option>
+               <option>Tofu</option>
+               <option>Hamburger</option>
+           </datalist>
+           
+           <br>
+           <label for="sex">Sexul:</label>
+           <select name="sex" id="sex">
+               <option>Masculin</option>
+               <option>Feminin</option>
+               <option>Altceva</option>
+           </select><br>
+
+           <label for="color"> Culoarea preferata:</label>
+           <input type="color" name ="culoare" id ="culoare"/><br>
+
+           <label for="ora">Ora nașterii:</label>
+           <input type="time" name="ora" id="ora"/><br>
+
+           <label for="varsta">Vârsta:</label>
+           <input type="range" name="varsta" id="varsta"/><br>
+
+           <label for="adresa">Adresa paginii personale:</label>
+           <input type="url" name="adresa" id="adresa"/><br>
+
+           <label for="desc">Descriere:</label>
+           <textarea name="desc" id="desc"></textarea>
+
+        </fieldset>
+
+        <input type = "submit" value = "Inregistreaza"/>
+    </form>
+</body>
+
+</html>
