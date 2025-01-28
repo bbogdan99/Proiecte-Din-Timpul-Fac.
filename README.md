@@ -1,0 +1,1 @@
+- Sistem distribuit de comunicare intre statii (folosind Socket, utilizand algoritmul de criptare simetric Advanced Encryption Standard/Rijndael)
